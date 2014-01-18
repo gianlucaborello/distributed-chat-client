@@ -1,7 +1,7 @@
 distributed-chat-client
 =======================
 
-Minimal demo chat client made using Protobuf, Redis, ØMQ
+Simple chat client to demonstrate the use of Protobuf, Redis, ØMQ. Not anywhere close to being usable, just made it to have a couple hours of fun.
 
 BUILD
 =====
